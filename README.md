@@ -1,6 +1,6 @@
 # Desarrollo Web Entorno Servidor
 
-Ejercicios y recursos elaborados por **Fernando Galindo Merino** para el desarrollo del módulo de Desarrollo Web en Entorno Servidor correspondiente al ciclo formativo de grado superior de Desarrollo de Aplicaciones Web
+Ejercicios y recursos elaborados por **Fernando Galindo Merino** para el desarrollo del módulo de Desarrollo Web en Entorno Servidor correspondiente al ciclo formativo de grado superior de Desarrollo de Aplicaciones Web.
 
 ## Secuenciación y unidades de trabajo
 1.	Selección de arquitecturas y herramientas de programación
