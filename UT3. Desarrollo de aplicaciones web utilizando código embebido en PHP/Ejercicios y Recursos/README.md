@@ -33,15 +33,15 @@ N=4<br>
 16.	Define un array asociativo, donde las claves sean las siglas de los módulos y el valor sea el nombre del profesor que lo imparte. 
 17.	A partir del valor de una variable, DWES, DWEC, DWAS, DI, EIE, indica el nombre del módulo y el nombre del profesor que lo imparte. 
 18.	Similar al anterior, pero la variable puede contener claves que no existan, deberás validar que la clave exista por ejemplo FOL, LMSGI, etc. 
-19.	Muestra todos los módulos indicando el profesor que lo imparte
-Módulo Desarrollo Web en entorno servidor profesor Fernando Galindo
-Módulo Desarrollo Web en entorno Cliente profesor Ana González
-…
+19.	Muestra todos los módulos indicando el profesor que lo imparte<br>
+Módulo Desarrollo Web en entorno servidor profesor Fernando Galindo<br>
+Módulo Desarrollo Web en entorno Cliente profesor Ana González<br>
+…<br>
 20.	Realizar un programa en PHP que invierta un número dado, el resultado deberá ser un número. No puedes utilizar funciones de cadena. 
 21.	Definir un array de superherores, en el que se indique el nombre del superhéroe, el nombre real y la ciudad en la que está.
-a.	Sipderman -> Peter Parker -> Nueva York
-b.	Batman -> Bruce Wayne -> Gotham
-c.	…
+*	Sipderman -> Peter Parker -> Nueva York*
+*	Batman -> Bruce Wayne -> Gotham
+*	…
 22.	Mostrar la información de los superhéroes. Nombre, nombre real y ciudad.
  
 ## Práctica ficheros
