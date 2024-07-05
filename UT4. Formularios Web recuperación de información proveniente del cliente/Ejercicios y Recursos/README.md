@@ -8,11 +8,11 @@
 Si al enviar el formulario ha pasado más de un minuto desde que se generó el formulario mostrará nuevamente el formulario con un mensaje de que ha expirado, sino se mostrará un mensaje donde te saludará con tu nombre. 
 7.	Realiza un formulario con dos campos usuario y contraseña, la aplicación validará si la contraseña es correcta o no. 
 8.	Igual que el anterior, pero la contraseña dentro la aplicación deberá estar cifrada utilizando HASH+SALT. Indica la SALT que has usado.
-9.	Dispones de un fichero con usuarios y contraseñas cifradas en el servidor de la forma:
-`Usuario1, 03ac674216f3e15c761ee1a5e255f06795362…
-Usuario2, fe2592b42a727e977f055947385b709cc82b1…`
-Crea un formulario que te permita validar si el usuario y contraseña introducida tienen correspondencia con el fichero de las contraseñas. 
+9.	Dispones de un fichero con usuarios y contraseñas cifradas en el servidor de la forma:<br>
+<pre>Usuario1, 03ac674216f3e15c761ee1a5e255f06795362…<br>
+Usuario2, fe2592b42a727e977f055947385b709cc82b1…</pre>
+Crea un formulario que te permita validar si el usuario y contraseña introducida tienen correspondencia con el fichero de las contraseñas. <br>
 10.	Crear un formulario que permita ir añadiendo palabras a un diccionario de traducción español-ingles. Las palabras las deberás ir almacenando en un campo oculto del formulario.
 Una sugerencia para almacenar las palabras sea de la siguiente forma:
-manzana,apple;silla,chair;luna,moon
+<pre>manzana,apple;silla,chair;luna,moon</pre>
 11.	Crear un formulario con un botón para seleccionar la traducción (inglés-español o español-ingles) y un campo input para indicar la palabra. Deberás mostrar la traducción de la palabra siempre que exista en el diccionario.
