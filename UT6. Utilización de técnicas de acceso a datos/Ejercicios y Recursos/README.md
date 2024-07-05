@@ -1,9 +1,9 @@
 # UT6
-Crea una BD utilizando phpMyAdmin con tres tablas: alumnos, módulos y notas. 
-![Esquema BD Alumnos](https://github.com/frgali/DWES/blob/main/UT1.%20Selecci%C3%B3n%20de%20arquitecturas%20y%20herramientas%20de%20programaci%C3%B3n/Ejercicios%20y%20Recursos/Peticiones.png)
+Crea una BD utilizando phpMyAdmin con tres tablas: alumnos, módulos y notas.<br>
+![Esquema BD Alumnos](https://github.com/frgali/DWES/blob/main/UT6.%20Utilizaci%C3%B3n%20de%20t%C3%A9cnicas%20de%20acceso%20a%20datos/Ejercicios%20y%20Recursos/esquemaBD_alumnos.png)<br>
 El nombre de la BD será BD_alumnos, el usuario alumnos_admin y la contraseña peterpan
 
-Las consultas SELECT que realices deberán ser no cualificadas no puedes utilizar clausula WHERE (select * from tabla o select col1, col2 from tabla)
+__Las consultas SELECT que realices deberán ser no cualificadas no puedes utilizar clausula WHERE (select * from tabla o select col1, col2 from tabla)__
 1.	Crea una aplicación web que permita visualizar en formato tabla los alumnos de la BD.
 2.	Crea una aplicación web que permita visualizar en formato tabla los módulos.
 3.	Crea una aplicación que permita ver en formato tabla los alumnos y los módulos.
