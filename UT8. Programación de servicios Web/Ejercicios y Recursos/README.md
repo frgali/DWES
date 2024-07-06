@@ -20,14 +20,14 @@ http://ovc.catastro.meh.es/ovcservweb/OVCSWLocalizacionRC/OVCCallejero.asmx
 Realiza llamadas desde SOAP UI a las operaciones ObtenerProvincias y ObtenerMunicipios esta operación requiere un parámetro. 
 - Realiza un cliente SOAP en PHP que construya un formulario con una lista desplegable SELECT todas las provincias de España devueltas por el servicio. Al enviar el formulario y seleccionar una provincia se navegará a otra página donde se mostrarán todos los municipios de dicha provincia. 
 - Se pide realizar un servicio Web SOAP en PHP con 2 operaciones:
+  * buscarPais este servicio recibirá un país como entrada de la lista y devolverá la población.
+  * anyadirCiudad este servicio recibirá como entrada una ciudad con todos sus datos (Nombre, Pais, Distrito, Poblacion). 
+Tendrás una base de datos (ej. mundo) donde almacenarás las ciudades con todos sus datos, nombre, país, distrito, población. (si quieres almacenar más campos puedes hacerlo)<br>
+Valladolid, España, Castilla y León, 298866<br>
+Nueva York, EEUU, Nueva York, 8804109<br>
+Cancún, México,  Quintana Roo, 888797 <br>
 
-buscarPais este servicio recibirá un país como entrada de la lista y devolverá la población.
-anyadirCiudad este servicio recibirá como entrada una ciudad con todos sus datos (Nombre, Pais, Distrito, Poblacion). 
-Tendrás una base de datos (ej. mundo) donde almacenarás las ciudades con todos sus datos, nombre, país, distrito, población. (si quieres almacenar más campos puedes hacerlo)
-Valladolid, España, Castilla y León, 298866
-Nueva York, EEUU, Nueva York, 8804109
-Cancún, México,  Quintana Roo, 888797 
 Para ello crearas los siguientes programas servidorPaises.php y clientePaises.php, puedes apoyarte de otras clases si lo deseas. 
-servidorPaises.php contendrá la definición de cada uno de los servicios, así como las llamadas a la base de datos para realizar las consultas e insertar los resultados. 
-clientePaises.php, que contendrá unos pequeños formularios para probar cada uno de los servicios Web definidos. 
+- servidorPaises.php contendrá la definición de cada uno de los servicios, así como las llamadas a la base de datos para realizar las consultas e insertar los resultados. 
+- clientePaises.php, que contendrá unos pequeños formularios para probar cada uno de los servicios Web definidos. 
 Documenta el servidor SOAP para poder generar el WSDL con la herramienta WSDLDocument.php (https://code.google.com/archive/p/wsdldocument/) 
