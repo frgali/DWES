@@ -16,4 +16,5 @@ Si la entrada es correcta se volverá a la primera página y se mostrará una ca
 Si la entrada es incorrecta, se indicará el tamaño de la cadena que ha recordado pudiendo volver a empezar el juego. 
 El formulario de texto, se valorará positivamente que se trate de un input de tipo texto y se valide la entrada del usuario para aceptar solo números y que no se permitan otros caracteres.
 Puedes apoyarte en las funciones str_replace() y preg_replace(), esta función es bastante útil dado que permite trabajar con expresiones regulares. Por ejemplo '/\D/' y "/[^0-9]/"
+
 Puedes definir otras páginas o bien modificar el contenido de las mostradas anteriormente, tan sólo son una pequeña guía. 
