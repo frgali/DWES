@@ -13,3 +13,7 @@ Ejercicios y recursos elaborados por **Fernando Galindo Merino** para el desarro
 8.	[Programación de servicios Web](https://github.com/frgali/DWES/tree/main/UT8.%20Programaci%C3%B3n%20de%20servicios%20Web)
 9.	[Generación dinámica de páginas web interactivas, Web Híbridas](https://github.com/frgali/DWES/tree/main/UT9.%20Generaci%C3%B3n%20din%C3%A1mica%20de%20p%C3%A1ginas%20web%20interactivas%2C%20Web%20H%C3%ADbridas)
 10.	[Frameworks de desarrollo. Laravel.](https://github.com/frgali/DWES/tree/main/UT10.%20Framewords%20de%20desarrollo.%20Laravel/Ejercicios%20y%20Recursos)
+
+## Prácticas
+1. Juego Simón
+2. Carrito de la compra
