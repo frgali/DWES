@@ -1,4 +1,4 @@
-# Practica Juego Simon 1ª Evaluación
+# Práctica Juego Simon 1ª Evaluación
 La práctica trata de realizar una aplicación Web que simule el juego de Simon dice. Se trata de una aplicación con 4 botones de colores en los que la aplicación iluminará un color y el jugador tratará de recordar el color que se ha tocado, la siguiente se iluminarán 2 colores en orden y el jugador pulsará esos 2 botones en el orden correcto, la 3º vez 3 colores y así hasta que el usuario falle. 
 Ejemplo de juego: https://kidmons.com/es/juego/simon-memorize/ 
 Esta primera aplicación en lugar de realizar el juego con colores y botones, realizaremos la simulación con números del 1 al 4. De tal forma que la aplicación irá mostrando cadenas de una mayor longitud, empezando por 1 hasta que el jugador falle. El jugador introducirá la cadena en un formulario que comprobará si coincide con la que se ha mostrado anteriormente. 
