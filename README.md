@@ -16,4 +16,5 @@ Ejercicios y recursos elaborados por **Fernando Galindo Merino** para el desarro
 
 ## Prácticas
 1. Juego Simón
-2. Carrito de la compra
+2. Trabajando con ficheros
+3. Carrito de la compra
