@@ -1,8 +1,8 @@
 # UT9
-- Realizar un formulario donde la validación se realice íntegramente en el lado del servidor y otro formulario donde la validación se realice en el cliente, comparando ambos métodos.  
-  El nombre de usuario no puede ser un campo vacío.
-  La contraseña no es vacía y deben ser iguales.
-  El email es válido de la forma nombre@dominio.xxx
+- Realizar un formulario donde la validación se realice íntegramente en el lado del servidor y otro formulario donde la validación se realice en el cliente, comparando ambos métodos.<br>
+  El nombre de usuario no puede ser un campo vacío.<br>
+  La contraseña no es vacía y deben ser iguales.<br>
+  El email es válido de la forma nombre@dominio.xxx<br>
  
 - Similar al formulario anterior, pero combina ambas técnicas suponiendo que el nombre del usuario y el email no pueden estar repetidos en el servidor. 
 - Aplicando el mismo criterio que el anterior, utiliza AJAX para validar el nombre y el email asegurando que no estén repetidos.
