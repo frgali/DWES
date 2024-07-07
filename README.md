@@ -11,5 +11,5 @@ Ejercicios y recursos elaborados por **Fernando Galindo Merino** para el desarro
 6.	[Utilización de técnicas de acceso a datos](https://github.com/frgali/DWES/tree/main/UT6.%20Utilizaci%C3%B3n%20de%20t%C3%A9cnicas%20de%20acceso%20a%20datos)
 7.	[Programación Orientada a Objetos](https://github.com/frgali/DWES/tree/main/UT7.%20Programaci%C3%B3n%20Orientada%20a%20Objetos)
 8.	[Programación de servicios Web](https://github.com/frgali/DWES/tree/main/UT8.%20Programaci%C3%B3n%20de%20servicios%20Web)
-9.	Generación dinámica de páginas web interactivas, Web Híbridas
+9.	[Generación dinámica de páginas web interactivas, Web Híbridas](https://github.com/frgali/DWES/tree/main/UT9.%20Generaci%C3%B3n%20din%C3%A1mica%20de%20p%C3%A1ginas%20web%20interactivas%2C%20Web%20H%C3%ADbridas)
 10.	Frameworks de desarrollo. Laravel.
